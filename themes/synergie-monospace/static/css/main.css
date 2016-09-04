@@ -12,7 +12,7 @@
 
 @import url("pygment.css");
 
-html { background-color:#666666; }
+html { background-color:#4d4d4d; }
 body { margin:0px; padding:20px 0px; text-align:center; font-family:Monospace; color:#FFFFFF; }
 a, a:visited { text-decoration:none; color:rgb(172, 240, 172); }
 a:hover { color:#FFF; background-color:#5353CB }
