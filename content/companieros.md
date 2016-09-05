@@ -26,4 +26,3 @@ Le buffet fut alors l'occasion pour les étudiants de la cordée de se rencontre
 et d'échanger avec les membres d'Alti et les autres invités.
 
 ![companieros2]({filename}/images/companieros2.jpg)
-
