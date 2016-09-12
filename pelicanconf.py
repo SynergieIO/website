@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Synergie'
 SITENAME = 'Synergie'
 SITEURL = ''
-DESCRIPTION = 'Agir en faveur de la mixité dans les métiers de l\'informatique'
+DESCRIPTION = 'Agir en faveur de la diversité dans les métiers de l\'informatique'
 
 PATH = 'content'
 THEME = 'themes/synergie-monospace'
