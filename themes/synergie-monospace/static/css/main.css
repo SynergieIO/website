@@ -101,6 +101,8 @@ input#s { width:70%; height:auto; margin:5px 0px; }
 #footer li { list-style-type:none; }
 #footer .widget_tag_cloud h2 { display:none; }
 
+img, div.figure { max-width: 100%; height: auto; }
+
 /* LWM EDITS */
 #page-title{
     position : relative;
