@@ -1,5 +1,4 @@
 Title: Contact
 
-* mail: e-synergie@googlegroups.com
-* slack: synergie-io
+* mail: SynergieEpita@gmail.com
 * facebook: synergie-io
