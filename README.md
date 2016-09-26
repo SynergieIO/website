@@ -32,7 +32,7 @@ pew workon synergie-blog
 ```
 You can find in-depth documentation about pew ![here](https://github.com/berdario/pew)
 
-### Pelican
+## Pelican
 
 Pelican is static site generator. We use it to build our website.
 The articles and pages in the `content` directory are converted to
@@ -48,6 +48,8 @@ To launch the development server (default port is 8000):
 ./develop_server.sh start
 ```
 
+The website is now accessible at http://localhost:8000
+
 To stop it:
 ```
 ./develop_server.sh stop
@@ -55,3 +57,8 @@ To stop it:
 
 When the server is running, the html will be automagically updated
 at each modification in the `contents`.
+
+## Adding new articles
+
+Refer to ![this section](http://docs.getpelican.com/en/3.6.3/content.html) of
+the Pelican documentation.
