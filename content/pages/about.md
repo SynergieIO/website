@@ -35,4 +35,7 @@ Ce mouvement est indissociable des représentations scolaires, qui poussent les 
 
 # Contact
 
-[Voir nos différents moyens de contact](http://synergie.epita.fr/pages/a-propos.html)
+* mail: synergieepita@gmail.com
+* facebook: [synergie](https://fb.com/synergie.io)
+* twitter: [synergie](https://twitter.com/SynergieIO)
+* irc: #synergie sur irc.rezosup.org
