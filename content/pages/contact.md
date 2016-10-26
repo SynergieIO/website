@@ -1,4 +1,6 @@
 Title: Contact
 
-* mail: SynergieEpita@gmail.com
-* facebook: synergie-io
+* mail: synergieepita@gmail.com
+* facebook: [synergie](https://fb.com/synergie.io)
+* twitter: [synergie](https://twitter.com/SynergieIO)
+* irc: #synergie sur irc.rezosup.org
