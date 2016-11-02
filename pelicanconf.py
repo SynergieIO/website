@@ -8,7 +8,7 @@ SITEURL = ''
 DESCRIPTION = 'Agir en faveur de la diversité dans les métiers de l\'informatique'
 
 PATH = 'content'
-THEME = 'themes/synergie-monospace'
+THEME = 'themes/html5-dopetrope'
 
 LOCALE = ("fr_FR")
 TIMEZONE = 'Europe/Paris'
