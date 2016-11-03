@@ -8,7 +8,7 @@ SITEURL = ''
 DESCRIPTION = 'Agir en faveur de la diversité dans les métiers de l\'informatique'
 
 PATH = 'content'
-THEME = 'themes/synergie-monospace'
+THEME = 'themes/nice-blog'
 
 LOCALE = ("fr_FR")
 TIMEZONE = 'Europe/Paris'
@@ -27,6 +27,6 @@ RELATIVE_URLS = True
 USE_FOLDER_AS_CATEGORY = False
 
 # Special to nice-blog theme
-#THEME_COLOR = 'green'
+THEME_COLOR = 'green'
 # SIDEBAR_DISPLAY = ['1', '2', '3']
 # SIDEBAR_ABOUT = "text"
