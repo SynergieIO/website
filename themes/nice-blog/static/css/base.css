@@ -50,14 +50,14 @@
 		background: #fff;
 		font-size: 14px;
 		line-height: 24px;
-		color: #888;
+		color: #fff; /* base color for texts */
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
  	}
 	
 	#content-wrapper {
 		padding: 0 0 40px 0;
-		background-color: #fff;
+		background-color: #4d4d4d; /* fond liste articles */
 	}
 
 	/* Boxed Layout Style */
@@ -146,7 +146,7 @@
 /* #Typography
 ================================================== */
 	h1, h2, h3, h4, h5, h6 {
-		color: #505050;
+		color: #fff;
 		font-weight: 500;
 	}
 		
@@ -159,11 +159,11 @@
 	h6 { font-size: 14px; line-height: 21px; }
 
 	p { margin: 0 0 15px 0; line-height: 24px;}
-	p img { margin: 0; }
+	p img { margin: 0; max-width: 1180px;}
 	p.lead { font-size: 21px; line-height: 27px; color: #777;  }
 
 	em { font-style: italic; }
-	strong { font-weight: 600; color: #333; }
+	strong { font-weight: 600; color: #fff; }
 	small { font-size: 80%; }
 
 	hr { border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 10px 0 30px; height: 0; }

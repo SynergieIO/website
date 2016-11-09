@@ -1,4 +1,4 @@
-﻿/*
+/*
 * Author: Vasterad
 * Template: Astrum
 * URL: http://themeforest.net/user/Vasterad/
@@ -21,7 +21,7 @@
 #header {
 	height: 86px;
 	z-index: 999;
-	background: #fff;
+	background: #4d4d4d; /*fond header*/
 	position: relative;
 	width: 100%;
 	box-shadow: 0 3px 3px -3px rgba(0, 0, 0, 0.2);
@@ -83,20 +83,20 @@
 .menu ul a { text-decoration: none; }
 
 .menu ul > li > a {
-	color: #888;
+	color: rgb(172, 240, 172); /*liens menu */
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 18px;
 	padding: 34px 18px 31px 18px;
 	overflow: hidden;
-	border-bottom: 3px solid transparent;
+	border-bottom: 3px solid rgb(90, 125, 90); /*bordure lien*/
 }
 
 #current,
 .menu ul li a:hover,
 .menu ul > li:hover > a { 
-	border-bottom: 3px solid #a0a0a0;
-	background-color: #fbfbfb;
+	border-bottom: 3px solid #a0a0a0; /*bordure lien hover*/
+	background-color: #6c6c6c; /*fond liens menu hover*/
 }
 
 #current:after {
@@ -245,7 +245,7 @@
 
 	#header {
 		z-index: 999;
-		background-color: #fff;
+		background-color: #4d4d4d; /*fond header mobile */
 		height: 79px;
 		margin-top: 0;
 		position: relative;
@@ -356,7 +356,7 @@
 ====================================================================== */
 .headline {
 	font-size: 20px;
-	background-color: #fff;
+	background-color: #4D4D4D; /* fond titre about */
 	padding-right: 10px;
 	z-index: 5;
 	position: relative;
@@ -378,7 +378,7 @@
 /* Titlebar
 ====================================*/
 #titlebar {
-	background-color: #f9f9f9;
+	background-color: #7F7F7F; /* path bar fond*/
 	position: relative;
 	min-height: 80px;
 	margin: 0 0 20px 0;
@@ -452,7 +452,7 @@
 	content: "";
 	font-family: "FontAwesome";
 	font-size: 12px;
-	color: #ccc;
+	color: rgb(172, 240, 172); /* path arrows color */
 	margin: 0 0 0 9px;
 }
 
@@ -463,8 +463,8 @@
 }
 
 #breadcrumbs ul li:last-child a,
-#breadcrumbs ul li a { color: #888; font-weight: 600; }
-#breadcrumbs ul li a:hover { color: #a0a0a0; }
+#breadcrumbs ul li a { color: #fff; font-weight: 600; } /* path text color */
+#breadcrumbs ul li a:hover { color: #a0a0a0; } /* path text color hover */
 
 #breadcrumbs ul li:first-child {
 	padding-right: 0;
@@ -473,7 +473,7 @@
 
 #breadcrumbs ul li:first-child,
 #breadcrumbs ul li:last-child {
-	color: #999;
+	color: #000; /*path first-last child color */
 	background: none;
 }
 
@@ -2058,7 +2058,7 @@ html[xmlns] .slides {display: block;}
 ====================================================================== */
 .post {
 	padding: 0 0 40px 0;
-	margin: 0 0 40px 0;
+	margin: 0 auto 40px auto;
 	border-bottom: 1px solid #f0f0f0;
 }
 
@@ -2081,8 +2081,8 @@ html[xmlns] .slides {display: block;}
 
 .post-content { margin: -57px 0 0 89px }
 .medium .post-content {margin:0;}
-.post-content h2 a { color: #505050; }
-.post-content h2 a:hover { color: #707070; }
+.post-content h2 a { color: #fff; } /* color h2 post */
+.post-content h2 a:hover { color: #C0C0C0; } /* color h2 post hover */
 .post-content p { margin-bottom: 19px; }
 
 

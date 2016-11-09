@@ -28,5 +28,3 @@ USE_FOLDER_AS_CATEGORY = False
 
 # Special to nice-blog theme
 THEME_COLOR = 'green'
-# SIDEBAR_DISPLAY = ['1', '2', '3']
-# SIDEBAR_ABOUT = "text"
