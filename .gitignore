@@ -2,3 +2,5 @@ __pycache__
 output
 .*.sw?
 *.pid
+.DS_Store
+*.pyc
