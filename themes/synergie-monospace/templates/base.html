@@ -35,9 +35,12 @@
 
 
       <div id="sidebar">
-        <span id="logo">
-        </span>
-        <h1><a href="{{ SITEURL }} " title="title">{{ SITENAME }}</a></h1>
+        <h1>
+        {% if LOGO_SYNERGIE %}
+          <img id="logo" src={{LOGO_SYNERGIE}}></img>
+        {% endif %}
+          <a href="{{ SITEURL }} " title="title">
+            {{ SITENAME }}</a></h1>
         <span class="description">{{ DESCRIPTION }} </span>
         <nav>
           <ul>
