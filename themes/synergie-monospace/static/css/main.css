@@ -32,19 +32,19 @@ input:hover, textarea:hover, blockquote:hover { background:#E5E5E5; }
 #sidebar li { list-style-type:none; }
 #sidebar > li { margin:20px 0px; }
 #sidebar h1 {
-border-bottom:1px dotted #C8C8C8;
-text-shadow: 1px 1px 3px rgba(200, 255, 200, 0.2);
-font-weight: lighter;
-text-transform: capitalize;
-color: white !important;
+  border-bottom:1px dotted #C8C8C8;
+  text-shadow: 1px 1px 3px rgba(200, 255, 200, 0.2);
+  font-weight: lighter;
+  text-transform: capitalize;
+  color: white !important;
 }
 
 #sidebar .description { display:block; width:100%; height:auto; margin:0px 0px 10px 0px; }
 
 #logo {
-height: 100px ;
-display: inline-block;
-vertical-align:middle;
+  height: 100px ;
+  display: inline-block;
+  vertical-align:middle;
 }
 
 ul.sub-menu, ul.children { margin:0px 10px 0px 0px; }
@@ -120,7 +120,7 @@ img, div.figure { max-width: 100%; height: auto; }
 
 /* LWM EDITS */
 #page-title{
-    position : relative;
-    top : 8px;
-    line-height:30px !important;
+  position : relative;
+  top : 8px;
+  line-height:30px !important;
 }

@@ -37,7 +37,9 @@
       <div id="sidebar">
         <h1>
         {% if LOGO_SYNERGIE %}
-          <img id="logo" src={{LOGO_SYNERGIE}}></img>
+          <img id="logo" src={{LOGO_SYNERGIE}}
+               onerror='this.onerror = null; this.src="../{{LOGO_SYNERGIE}}"'>
+          </img>
         {% endif %}
           <a href="{{ SITEURL }} " title="title">
             {{ SITENAME }}</a></h1>
