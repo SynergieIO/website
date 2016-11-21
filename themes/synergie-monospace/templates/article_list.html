@@ -7,10 +7,9 @@
                     <h2>Articles</h2>
                     <ol>
             {% endif %}
-        {# other items #}
-        {% else %}
-            <li><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title}}">{{ article.title }}</a></li>
         {% endif %}
+        {# other items #}
+            <li><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title}}">{{ article.title }}</a></li>
     {% endfor %}
 {% if loop.length > 1 %}
     </ol>
