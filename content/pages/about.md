@@ -1,4 +1,4 @@
-Title: A propos
+Title: À propos
 
 # Synergie
 
@@ -35,7 +35,7 @@ Ce mouvement est indissociable des représentations scolaires, qui poussent les 
 
 # Contact
 
-* mail: synergieepita@gmail.com
-* facebook: [synergie](https://fb.com/synergie.io)
-* twitter: [synergie](https://twitter.com/SynergieIO)
+* mail: contact`<@>`synergie.epita.fr
+* facebook: [synergie.io](https://fb.com/synergie.io)
+* twitter: [synergieIO](https://twitter.com/SynergieIO)
 * irc: #synergie sur irc.rezosup.org
