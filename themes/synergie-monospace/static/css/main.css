@@ -31,6 +31,12 @@ input:hover, textarea:hover, blockquote:hover { background:#E5E5E5; }
 #sidebar > li { margin:20px 0px; }
 #sidebar h1 { border-bottom:1px dotted #C8C8C8; }
 #sidebar .description { display:block; width:100%; height:auto; margin:0px 0px 10px 0px; }
+#logo {
+height: 150px ;
+display: block;
+background-image: url("images/JS.png");
+float:left;
+}
 
 ul.sub-menu, ul.children { margin:0px 10px 0px 0px; }
 
@@ -107,4 +113,5 @@ img, div.figure { max-width: 100%; height: auto; }
 #page-title{
     position : relative;
     top : 8px;
+    line-height:30px !important;
 }
