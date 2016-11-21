@@ -1,0 +1,21 @@
+{% if articles %}
+    {% for article in articles %}
+        {# First item #}
+        {% if loop.first %}
+            {% if loop.length > 1 %}
+                <section id="article-list">
+                    <h2>Articles</h2>
+                    <ol>
+            {% endif %}
+        {# other items #}
+        {% else %}
+            <li><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title}}">{{ article.title }}</a></li>
+        {% endif %}
+    {% endfor %}
+{% if loop.length > 1 %}
+    </ol>
+    </section><!-- #article-list -->
+{% endif %}
+{% else %}
+    No posts found.
+{% endif %}
