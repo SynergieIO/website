@@ -28,4 +28,3 @@ USE_FOLDER_AS_CATEGORY = False
 
 # Theme related
 MD_EXTENSONS = ['codehilite(css_class=codehilite code)']
-LOGO_SYNERGIE = "images/synergie_logo.png"
