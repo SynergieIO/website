@@ -1,6 +1,7 @@
 Title: Rencontre avec Companieros
 Slug: rencontre-avec-companieros
 Date: 2016-04-04
+Author: Jean-Francois Nguyen
 
 En 2015, nous avons pu offrir aux étudiants de l'EPITA une formation HF
 Management organisée par **Companieros**, grâce au financement d'**Alti
