@@ -4,7 +4,7 @@ author: Laure Daumal
 
 ![js]({filename}/images/JS.png)
 
-Les [Journées Synergiques](js.synergie.epita.fr) (JS) sont un ensemble
+Les [Journées Synergiques](/js) (JS) sont un ensemble
 d’ateliers gratuits destinés à initier de jeunes collégiens à la
 programmation, organisés par Synergie.  
  
@@ -14,7 +14,7 @@ qu’étudiants, de manière introductive et adaptée à un public de néophytes
 Trois d’entre eux seront traités à cette occasion :
 
 * Jeu vidéo
-* Drones
+* Cryptographie
 * Intelligence artificielle
 
 Pour la prochaine année scolaire, il est également prévu d'aborder le domaine
@@ -23,5 +23,5 @@ de la cryptographie, du réseau, de la domotique, du web... et plein d'autres
 
 # Participer
 
-Les [inscriptions](js.synergie.epita.fr/inscription.html) aux Journées
+Les [inscriptions](/js/inscription.html) aux Journées
 Synergiques ouvriront courant décembre 2016. Restez alerte !
