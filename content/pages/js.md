@@ -4,14 +4,16 @@ author: Laure Daumal
 
 ![js]({filename}/images/JS.png)
 
-Les [Journées Synergiques](/js) (JS) sont un ensemble
-d’ateliers gratuits destinés à initier de jeunes collégiens à la
-programmation, organisés par Synergie.  
+Les [Journées Synergiques](/js) (JS), c'est le nouveau projet de Synergie.
+À chaque journée est organisé un atelier gratuit destinés à initier de jeunes
+collégien-ne-s à l'informatique. 
  
 Les premiers ateliers débuteront en **Février 2017**. Ces ateliers, espacés
-d’un mois, permettent d’aborder des domaines qui nous passionnent en tant
-qu’étudiants, de manière introductive et adaptée à un public de néophytes.
-Trois d’entre eux seront traités à cette occasion :
+d’un mois, permettent d’aborder des domaines variés (programmation,
+électronique, algorithmie, ...) qui nous passionnent en tant qu’étudiants,
+de manière introductive et adaptée à un public de néophytes.
+
+Trois d’entre eux seront traités cette année :
 
 * Jeu vidéo
 * Cryptographie
