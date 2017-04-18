@@ -17,6 +17,10 @@ Si vous connaissez un-e élève au collège qui pourrait être intéressé par c
 événement, partagez lui l'info !
 [Les inscriptions sont ouvertes](/js/inscription.html).
 
+
+**Attention, la prochaine Journée Synergique a été déplacée le 17 Juin !**
+
 ![affiche-js]({filename}/images/js-affiche.jpg)
+
 
 Trouvez plus d'informations sur le [site des Journées Synergiques](/js).
