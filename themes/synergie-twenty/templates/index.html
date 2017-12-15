@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% include 'banner.html' %}
+
+{% block content %}
+<!-- Main -->
+<article id="main">
+
+  <header class="special container">
+    <!--
+      <span class="icon fa-bar-chart-o"></span>
+    -->
+    <span class="icon fa-spin fa-cog"></span>
+{% include 'coolstuff.html' %}
+  </header>
+
+  <!-- One -->
+  <section class="wrapper style2 container special-alt">
+
+        <header>
+          <h2 style= "color : #FFFFFF;">
+            Les Journées Synergiques
+          </h2>
+        </header>
+        <p>
+        Tu es élève au collège ?
+        L'expérience du numérique est à portée de main ! Pour l'année 2018,
+        nous aborderons quatre ateliers :
+        </p>
+
+        <footer>
+          <ul class="buttons">
+            <li><a href="{{ SITEURL }}/js" class="button">Les Journées Synergiques</a></li>
+          </ul>
+        </footer>
+
+  </section>
+
+  <!-- Two -->
+  <p style="position: relative;">
+  <a name="mes_articles" style="position: absolute; top: -150px;"></a>
+  </p>
+{% include 'most_recent.html' %}
+
+</article>
+
+{% endblock content %}

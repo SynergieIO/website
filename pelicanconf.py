@@ -8,7 +8,7 @@ SITEURL = ''
 DESCRIPTION = 'Agir en faveur de la diversité dans les métiers de l\'informatique'
 
 PATH = 'content'
-THEME = 'themes/synergie-monospace'
+THEME = 'themes/synergie-twenty'
 
 LOCALE = ("fr_FR")
 TIMEZONE = 'Europe/Paris'
@@ -28,3 +28,16 @@ USE_FOLDER_AS_CATEGORY = False
 
 # Theme related
 MD_EXTENSONS = ['codehilite(css_class=codehilite code)']
+
+
+
+# Theme-related
+def sidebar(value):
+  if value.startswith('archives') or value.startswith('category'):
+    return 'right-sidebar'
+  elif value == 'index':
+    return 'index'
+  else:
+    return 'no-sidebar'
+
+JINJA_FILTERS = {'sidebar': sidebar}

@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title|striptags }} | {{ super() }}{% endblock title %}
+
+{% block content %}
+<!-- Main -->
+<article id="main">
+
+  <header class="special container">
+    <span class="icon fa-mobile"></span>
+    <h2>{{ page.title }}</h2>
+  </header>
+
+  <!-- One -->
+  <section class="wrapper style4 container">
+
+    <!-- Content -->
+      <div class="content">
+        <section class="wrapper container style2">
+          <p>{{ page.content }}</p>
+          <a href="{{ SITEURL }}" class="image feature"><img src="{{ SITEURL }}/theme/images/JS_logo.png" alt="" /></a>
+        </section>
+      </div>
+
+  </section>
+
+  <!-- Two -->
+  {% include 'most_recent.html' %}
+
+  </article>
+{% endblock content %}
